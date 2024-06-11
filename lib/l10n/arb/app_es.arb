@@ -1,0 +1,39 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "home": "Inicio",
+    "@home": {
+        "description": "Text shown in the BottomNavBar for Home Page"
+    },
+    "favorites": "Favoritos",
+    "@favorites": {
+        "description": "Text shown for Favorites page"
+    },
+    "remove_favorite": "Remover Favorito",
+    "@remove_favorite": {
+        "description": "Text shown for Favorites page"
+    },
+    "remove_favorite_confirmation": "¿Está seguro que quiere remover la imagen de favoritos?",
+    "@remove_favorite_confirmation": {
+        "description": "Text shown to alert the user that the image will be removed from Favorites"
+    },
+    "cancel": "Cancelar",
+    "@cancel": {
+        "description": "Cancel action"
+    },
+    "remove": "Remover",
+    "@remove": {
+        "description": "Accept to remove item"
+    },
+    "error": "Algo salió mal",
+    "@error": {
+        "description": "Error message"
+    },
+    "no_favorites": "Aún no tienes favoritos",
+    "@no_favorites": {
+        "description": "Text shown when there are no favorites"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Text shown in the BottomNavBar for Home Page"
+    },
+    "favorites": "Favorites",
+    "@favorites": {
+        "description": "Text shown for Favorites page"
+    },
+    "remove_favorite": "Remove Favorite",
+    "@remove_favorite": {
+        "description": "Text shown for Favorites page"
+    },
+    "remove_favorite_confirmation": "Are you sure you want to remove this image from Favorites?",
+    "@remove_favorite_confirmation": {
+        "description": "Text shown to alert the user that the image will be removed from Favorites"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel action"
+    },
+    "remove": "Remove",
+    "@remove": {
+        "description": "Accept to remove item"
+    },
+    "error": "Something went wrong",
+    "@error": {
+        "description": "Error message"
+    },
+    "no_favorites": "No favorites yet!",
+    "@no_favorites": {
+        "description": "Text shown when there are no favorites"
+    }
+}
