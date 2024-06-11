@@ -8,7 +8,7 @@ class CoffeeModel {
       file: json['file'] as String? ?? '',
     );
   }
-  
+
   final String file;
 
   Map<String, dynamic> toJson() {

@@ -29,7 +29,7 @@ class FavoritesState extends Equatable {
   }) {
     return FavoritesState(
       status: status ?? this.status,
-      listFavorites: listFavorites?? this.listFavorites,
+      listFavorites: listFavorites ?? this.listFavorites,
     );
   }
 

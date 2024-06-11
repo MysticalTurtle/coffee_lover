@@ -61,8 +61,8 @@ class FavoriteItem extends StatelessWidget {
                         onPressed: () {
                           Navigator.of(context).pop();
                           context.read<FavoritesBloc>().add(
-                            RemoveFavoriteEvent(coffee),
-                          );
+                                RemoveFavoriteEvent(coffee),
+                              );
                         },
                         child: const Text('Remove'),
                       ),

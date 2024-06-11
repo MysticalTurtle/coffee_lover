@@ -1,7 +1,7 @@
 part of 'favorites_bloc.dart';
 
 @immutable
-sealed class FavoritesEvent extends Equatable{
+sealed class FavoritesEvent extends Equatable {
   const FavoritesEvent();
 }
 

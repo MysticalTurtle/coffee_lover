@@ -7,9 +7,10 @@ import 'package:coffee_lover/pages/home/domain/entities/coffee_entity.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
-
 class MockCoffeeRepository extends Mock implements CoffeeRepository {}
+
 class FakeCoffeeModel extends Fake implements CoffeeModel {}
+
 class FakeAppError extends Fake implements AppError {}
 
 void main() {

@@ -26,7 +26,7 @@ class CoffeeCardStack extends StatelessWidget {
               }
             },
             cardBuilder: (BuildContext context, int index) {
-              final angle = index.isEven ? -math.pi / 30.0  : math.pi / 30.0;
+              final angle = index.isEven ? -math.pi / 30.0 : math.pi / 30.0;
               return Transform.rotate(
                 angle: angle,
                 child: const CoffeeCard(
@@ -45,7 +45,7 @@ class CoffeeCardStack extends StatelessWidget {
               }
             },
             cardBuilder: (BuildContext context, int index) {
-              final angle = index.isEven ? -math.pi / 30.0  : math.pi / 30.0;
+              final angle = index.isEven ? -math.pi / 30.0 : math.pi / 30.0;
               return Transform.rotate(
                 angle: angle,
                 child: CoffeeCard(

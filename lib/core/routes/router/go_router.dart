@@ -5,7 +5,6 @@ import 'package:coffee_lover/pages/favorites/ui/page/favorites_page.dart';
 import 'package:coffee_lover/pages/home/ui/page/home_page.dart';
 import 'package:go_router/go_router.dart';
 
-
 final GoRouter goRouter = GoRouter(
   // observers: [UIToast.toastObserver],
   initialLocation: AppRoutes.home.toPath,
